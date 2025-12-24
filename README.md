@@ -1,5 +1,28 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+👋 About Me
+🔹 <span style="color:#22C55E;"><b>Coaching Pay App</b></span>
+
+Student Fee & Application Management System
+
+Full-stack web payment application
+
+Helps coaching institutes track:
+
+Student fees
+
+Applications & records
+
+Works as:
+
+Internal management tool
+
+Public landing page
+
+Built with modern web technologies
+
+🔗 Live / Demo: Coaching Pay App
+
+📦 Repository: github.com/your-username/coaching-pay-app
+
 
 
 ## 🌐 Socials:
