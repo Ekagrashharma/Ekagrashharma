@@ -1,29 +1,3 @@
-👋 About Me
-🔹 <span style="color:#22C55E;"><b>Coaching Pay App</b></span>
-
-Student Fee & Application Management System
-
-Full-stack web payment application
-
-Helps coaching institutes track:
-
-Student fees
-
-Applications & records
-
-Works as:
-
-Internal management tool
-
-Public landing page
-
-Built with modern web technologies
-
-🔗 Live / Demo: Coaching Pay App
-
-📦 Repository: github.com/your-username/coaching-pay-app
-
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ekagrashharma@gmail.com) 
